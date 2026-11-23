@@ -110,3 +110,13 @@ That influence shows more in my taste and style than in the code itself.
 [View all repositories](https://github.com/senpaikd?tab=repositories)
 
 </div>
+
+<h3 align="center">🐍 Contribution Activity</h3>
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/senpaikd/senpaikd/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</div>
